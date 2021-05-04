@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+}
+.photo {
+    box-sizing: border-box;
+    text-shadow: none;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}

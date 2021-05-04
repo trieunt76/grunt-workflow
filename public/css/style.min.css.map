@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,KAAM,CACF,OAAO,CAAE,CAAC,CAEd,MAAO,CACH,UAAU,CAAE,MAAM",
+"sources": ["../../src/scss/pages/_home.scss"],
+"names": [],
+"file": "style.min.css"
+}
